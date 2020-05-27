@@ -1,6 +1,8 @@
 # CSCI39547
 Projects in Computer Science - Summer 2020
+
 **Form for assignment submission**
+
 https://docs.google.com/spreadsheets/d/1yW1-2sjGvPGzy2Gxdhb8cyrEGeRdegMzfABKS6QVTlA/edit?usp=sharing
 
 # Week 1
