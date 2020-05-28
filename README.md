@@ -14,6 +14,7 @@ https://docs.google.com/spreadsheets/d/1yW1-2sjGvPGzy2Gxdhb8cyrEGeRdegMzfABKS6QV
 ## Assignment 1
 [Assignment #1](https://docs.google.com/document/d/1Pf86Btnzj55v0ym_ugkQYRuqnk77RcjMK0vOW5STZaY/edit?usp=sharing
 )
+- Due Sat. May 30 at 11:59 PM
 
 ## Class 2
 - Finish up git tutorial from class 1
@@ -32,6 +33,7 @@ https://docs.google.com/spreadsheets/d/1yW1-2sjGvPGzy2Gxdhb8cyrEGeRdegMzfABKS6QV
 
 ## Assignment 2
 [Assignment #2](https://docs.google.com/document/d/1e4i4AOl5PmCJ9xzR-94gEegwvvwRw6eqAe0VZHOz5to/edit?usp=sharing)
+- Due Thursday June 4, 2 PM
 
 # Week 2
 ## Class 3
@@ -42,6 +44,7 @@ https://docs.google.com/spreadsheets/d/1yW1-2sjGvPGzy2Gxdhb8cyrEGeRdegMzfABKS6QV
 - Intro to React
 
 ## Assignment 3 (DOM)
+- Assigned 6/2, due Tuesday 6/9 at 2 PM
 
 # Week 3
 ## Class 5
