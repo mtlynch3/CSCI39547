@@ -33,3 +33,64 @@ https://docs.google.com/spreadsheets/d/1yW1-2sjGvPGzy2Gxdhb8cyrEGeRdegMzfABKS6QV
 ## Assignment 2
 [Assignment #2](https://docs.google.com/document/d/1e4i4AOl5PmCJ9xzR-94gEegwvvwRw6eqAe0VZHOz5to/edit?usp=sharing)
 
+# Week 2
+## Class 3
+- Introduction to the DOM
+
+## Class 4
+- Intro to React
+
+## Assignment 3 (DOM)
+
+# Week 3
+## Class 5
+- Continue React
+
+## Assignment 4 (REACT)
+
+## Class 6
+- Intro to External APIs
+
+# Week 4
+
+## Class 7
+- Continue APIs
+
+## Assignment 5 and 6 (API)
+
+## Class 8
+- Work on assignments, find groups for projects
+
+# Project: FULLSTACK APP 1 introduced
+
+# Week 5
+## Class 9
+- React Router
+
+## Assignment 7
+
+## Class 10
+- Redux
+
+# Week 6
+
+## Class 11
+- Intro to NodeJS
+
+## Class 12
+- Intro to ExpressJS/RESTful APIs
+
+# Week 7
+## Class 13
+- PostgresQL/Sequelize
+
+## Class 14
+- Work on projects
+
+# Week 8
+
+## Class 15
+- Work on projects
+
+## Class 16
+- Work on projects
