@@ -18,7 +18,7 @@ https://docs.google.com/spreadsheets/d/1yW1-2sjGvPGzy2Gxdhb8cyrEGeRdegMzfABKS6QV
 
 ## Class 2
 - Finish up git tutorial from class 1
-- Demo: Creating issues and closing them
+- Demo: Creating issues and [closing them](https://help.github.com/en/enterprise/2.16/user/github/managing-your-work-on-github/closing-issues-using-keywords)
 - Demo: [Github pages](https://help.github.com/en/github/working-with-github-pages/getting-started-with-github-pages)
 
 - [JS Slides 1](https://drive.google.com/file/d/1JL2pjlW0np5sxY8uKLQdU_W8vd3PPXdM/view)
