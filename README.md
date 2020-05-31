@@ -26,14 +26,22 @@ https://docs.google.com/spreadsheets/d/1yW1-2sjGvPGzy2Gxdhb8cyrEGeRdegMzfABKS6QV
 
 **Suplemental Material**
 - [Eloquent Javascript Chapter 3: Functions](http://eloquentjavascript.net/03_functions.html)
-
 - [Eloquent Javascript Chapter 4: Objects and Arrays](http://eloquentjavascript.net/04_data.html)
-
 - [Eloquent Javascript Chapter 5: Higher Order Function](http://eloquentjavascript.net/05_higher_order.html)
+
+- [MDN: Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions)
+- [MDN: Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
+
+
+
 
 ## Assignment 2
 [Assignment #2](https://docs.google.com/document/d/1e4i4AOl5PmCJ9xzR-94gEegwvvwRw6eqAe0VZHOz5to/edit?usp=sharing)
 - Due Thursday June 4, 2 PM
+
+**Resources**
+- [Array.prototype.forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
+
 
 # Week 2
 ## Class 3
