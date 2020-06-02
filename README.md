@@ -54,7 +54,7 @@ https://docs.google.com/spreadsheets/d/1yW1-2sjGvPGzy2Gxdhb8cyrEGeRdegMzfABKS6QV
 - Intro to React
 
 ## Assignment 3 (DOM)
-- Assigned 6/2, due Tuesday 6/9 at 2 PM
+- Assigned 6/4, due Thursday 6/11 at 2 PM
 
 # Week 3
 ## Class 5
