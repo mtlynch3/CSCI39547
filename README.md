@@ -48,7 +48,19 @@ https://docs.google.com/spreadsheets/d/1yW1-2sjGvPGzy2Gxdhb8cyrEGeRdegMzfABKS6QV
 # Week 2
 ## Class 3
 - Finish up JS Slides 2 and Chapter 5: Higher Order Function
-- Introduction to the DOM
+- [DOM Slides](https://docs.google.com/presentation/d/1MWE-AoSTGIQsk1-4UkLwlWwy-ns6VSbECK3fLIEL8LQ/edit#slide=id.p1)
+
+**Required materials: watch ALL of these videos!**
+- [Intro to the DOM](https://www.youtube.com/watch?v=l-0nPnSvbX8)
+- [Traversing the DOM](https://www.youtube.com/watch?v=8LWQNnVAMh4)
+- [DOM Events](https://www.youtube.com/watch?v=QE1YQnhntgw)
+
+*Suplemental materials*
+- [Eloquent Javascript Chapter 13: Javascript and the Browser](http://eloquentjavascript.net/13_browser.html)
+
+- [Eloquent Javascript Chapter 14: The Document Object Model](http://eloquentjavascript.net/14_dom.html)
+
+- [Eloquent Javascript Chapter 15: Handling Events](http://eloquentjavascript.net/15_event.html)
 
 ## Class 4
 - Intro to React
