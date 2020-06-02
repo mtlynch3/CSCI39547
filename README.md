@@ -54,6 +54,7 @@ https://docs.google.com/spreadsheets/d/1yW1-2sjGvPGzy2Gxdhb8cyrEGeRdegMzfABKS6QV
 - Intro to React
 
 ## Assignment 3 (DOM)
+- [Assignment 3](https://docs.google.com/document/d/11xFpi2Eue2wwwiUHoHBaPWB2gmczogxZQhS67YKks9o/edit?usp=sharing)
 - Assigned 6/4, due Thursday 6/11 at 2 PM
 
 # Week 3
@@ -61,6 +62,7 @@ https://docs.google.com/spreadsheets/d/1yW1-2sjGvPGzy2Gxdhb8cyrEGeRdegMzfABKS6QV
 - Continue React
 
 ## Assignment 4 (REACT)
+- Assigned 6/9, due Tuesday 6/16 at 2PM
 
 ## Class 6
 - Intro to External APIs
