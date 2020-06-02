@@ -48,6 +48,7 @@ https://docs.google.com/spreadsheets/d/1yW1-2sjGvPGzy2Gxdhb8cyrEGeRdegMzfABKS6QV
 # Week 2
 ## Class 3
 - Finish up JS Slides 2 and Chapter 5: Higher Order Function
+- [Rest and spread](https://javascript.info/rest-parameters-spread)
 - [Intro to the DOM (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
 **Required materials: watch ALL of these videos!**
