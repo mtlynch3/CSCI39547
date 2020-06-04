@@ -68,12 +68,15 @@ https://docs.google.com/spreadsheets/d/1yW1-2sjGvPGzy2Gxdhb8cyrEGeRdegMzfABKS6QV
 - [Eloquent Javascript Chapter 15: Handling Events](http://eloquentjavascript.net/15_event.html)
 
 ## Class 4
-- Finish DOM
+- [DOM example](https://github.com/mtlynch3/dom1/)
+- [CSS Selector Reference](https://www.w3schools.com/cssref/css_selectors.asp)
+- [W3 Schools - DOM Events](https://www.w3schools.com/jsref/dom_obj_event.asp)
 - Work on Assignment 3
 
 ## Assignment 3 (DOM)
 - [Assignment 3](https://docs.google.com/document/d/11xFpi2Eue2wwwiUHoHBaPWB2gmczogxZQhS67YKks9o/edit?usp=sharing)
 - Assigned 6/4, due Thursday 6/11 at 2 PM
+- [Demo](https://mtlynch3.github.io/gridmaker/)
 
 # Week 3
 ## Class 5
