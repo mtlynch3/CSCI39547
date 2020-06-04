@@ -68,7 +68,8 @@ https://docs.google.com/spreadsheets/d/1yW1-2sjGvPGzy2Gxdhb8cyrEGeRdegMzfABKS6QV
 - [Eloquent Javascript Chapter 15: Handling Events](http://eloquentjavascript.net/15_event.html)
 
 ## Class 4
-- Intro to React
+- Finish DOM
+- Work on Assignment 3
 
 ## Assignment 3 (DOM)
 - [Assignment 3](https://docs.google.com/document/d/11xFpi2Eue2wwwiUHoHBaPWB2gmczogxZQhS67YKks9o/edit?usp=sharing)
@@ -76,22 +77,24 @@ https://docs.google.com/spreadsheets/d/1yW1-2sjGvPGzy2Gxdhb8cyrEGeRdegMzfABKS6QV
 
 # Week 3
 ## Class 5
-- Continue React
+- Intro to React
 
 ## Assignment 4 (REACT)
 - Assigned 6/9, due Tuesday 6/16 at 2PM
 
 ## Class 6
-- Intro to External APIs
+- Finish React
+- Work on Assignment 4
 
 # Week 4
 
 ## Class 7
-- Continue APIs
+- Intro to APIs
 
 ## Assignment 5 and 6 (API)
 
 ## Class 8
+- Finish APIs
 - Work on assignments, find groups for projects
 
 # Project: FULLSTACK APP 1 introduced
