@@ -9,6 +9,9 @@ Email: lynch.melissat@gmail.com
 
 https://docs.google.com/spreadsheets/d/1yW1-2sjGvPGzy2Gxdhb8cyrEGeRdegMzfABKS6QVTlA/edit?usp=sharing
 
+**Slack workspace**
+csci39547.slack.com
+
 # Week 1
 ## Class 1
 - [Git Slides](https://drive.google.com/file/d/1L_XvhD7U_n3Fttp8Q_v-M8B6v3IlTjv4/view)
