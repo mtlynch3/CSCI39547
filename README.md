@@ -84,33 +84,44 @@ csci39547.slack.com
 
 # Week 3
 ## Class 5
-- Intro to React
+- [Intro to React Slides](https://drive.google.com/file/d/1BBC8z_kuZ-PT0WmGeDbgM9AmZr2IOPrE/view)
+- [React Docs: Main Concepts](https://reactjs.org/docs/hello-world.html)
 
-## Assignment 4 (REACT)
-- Assigned 6/9, due Tuesday 6/16 at 2PM
+**Required videos (watch all in the series)**
+- [Video overview of React](https://www.youtube.com/watch?v=FRjlF74_EZk&list=PLruo2gSoqleiMVEIqmvZkIpFEN_TPt0hR)
+
+*Extra pratice*
+- [React practial tutorial](https://reactjs.org/tutorial/tutorial.html)
 
 ## Class 6
 - Finish React
 - Work on Assignment 4
+
+## Assignment 4 (REACT)
+- Assigned Thursday 6/11, due Thursday 6/18 at 2PM
 
 # Week 4
 
 ## Class 7
 - Intro to APIs
 
-## Assignment 5 and 6 (API)
+# Project: FULLSTACK APP 1 introduced
+- CRUD app: student manager
+- Due Monday, July 13 at 11:59 PM.
 
 ## Class 8
 - Finish APIs
-- Work on assignments, find groups for projects
+- Work on Assignments 5 and 6
 
-# Project: FULLSTACK APP 1 introduced
+## Assignment 5 and 6 (API)
+- Assigned Thursday 6/18, due Thursday 6/25 at 2 PM
 
 # Week 5
 ## Class 9
 - React Router
 
-## Assignment 7
+## Assignment 7 (React Router)
+- Assigned Tuesday 6/23, due Tuesday 6/30 at 2 PM
 
 ## Class 10
 - Redux
@@ -134,6 +145,7 @@ csci39547.slack.com
 
 ## Class 15
 - Work on projects
+- Take exit assessment 
 
 ## Class 16
-- Work on projects
+- Final presentations
