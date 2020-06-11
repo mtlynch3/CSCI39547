@@ -99,6 +99,7 @@ csci39547.slack.com
 - [React lifecycle methods diagram](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
 - [React lifecycle slides](https://drive.google.com/file/d/1n_wwOKf6cjvAQPYK7Z0P3qN_mRw82ozY/view)
 - [React events and forms slides](https://drive.google.com/file/d/1HXGVusEsJjIVsYaMyscbwiLwggMphV2s/view)
+- [Forms/events demo](https://github.com/mtlynch3/react-exercises/tree/master/forms-events/src)
 
 ## Assignment 4 (REACT)
 - Assigned Thursday 6/11, due Thursday 6/18 at 2PM
