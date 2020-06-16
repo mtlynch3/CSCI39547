@@ -108,15 +108,20 @@ csci39547.slack.com
 # Week 4
 
 ## Class 7
-- Intro to APIs
+- Make groups for CRUD app 1
+- Work on assignment 4
+
+*Supplemental Material*
+- [React tutorial: cryptocurrency](https://sabe.io/tutorials/getting-started-with-react)
 
 # Project: FULLSTACK APP 1 introduced
-- CRUD app: student manager
+- [CRUD app: student/campus manager](https://docs.google.com/document/d/1ioCrS7uzKSkH8d-L04xMeHsq5GbkiAfwPNyLUoqrb04/edit?usp=sharing)
 - Due Monday, July 13 at 11:59 PM.
+
 
 ## Class 8
 - Finish APIs
-- Work on Assignments 5 and 6
+- Introduce Assignments 5 and 6
 
 ## Assignment 5 and 6 (API)
 - Assigned Thursday 6/18, due Thursday 6/25 at 2 PM
@@ -126,7 +131,7 @@ csci39547.slack.com
 - React Router
 
 ## Assignment 7 (React Router)
-- Assigned Tuesday 6/23, due Tuesday 6/30 at 2 PM
+- Assigned Thursday 6/25, due Thursday 7/2 at 2 PM
 
 ## Class 10
 - Redux
@@ -150,7 +155,7 @@ csci39547.slack.com
 
 ## Class 15
 - Work on projects
-- Take exit assessment 
 
 ## Class 16
-- Final presentations
+- Final presentations due
+- Take exit assessment 
