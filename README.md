@@ -112,6 +112,7 @@ csci39547.slack.com
 - Work on assignment 4
 
 *Supplemental Material*
+- [React project architecture using barrels](https://hackernoon.com/react-project-architecture-using-barrels-d086146eb0f6)
 - [React tutorial: cryptocurrency](https://sabe.io/tutorials/getting-started-with-react)
 
 # Project: FULLSTACK APP 1 introduced
