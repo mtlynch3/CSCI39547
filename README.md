@@ -121,18 +121,25 @@ csci39547.slack.com
 
 
 ## Class 8
-- Finish APIs
-- Introduce Assignments 5 and 6
+- [Promises slides](https://drive.google.com/file/d/1xVo6kagZiOvdXexzT7ujiIXZTFC2ov0F/view)
+- [AJAX, fetch, axios](https://drive.google.com/file/d/1xMVz85U_cwgEqjynGaEMfwT_JNYbI1E6/view)
+- [Async/await video](https://www.youtube.com/watch?v=vn3tm0quoqE&t=170s)
 
-## Assignment 5 and 6 (API)
-- Assigned Thursday 6/18, due Thursday 6/25 at 2 PM
+*Supplemental Material*
+- [In-depth article on async/await](https://blog.bitsrc.io/understanding-javascript-async-and-await-with-examples-a010b03926ea)
+- [MDN: Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+- [MDN: Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
 # Week 5
 ## Class 9
 - React Router
+- Assignment 5 demo
 
-## Assignment 7 (React Router)
-- Assigned Thursday 6/25, due Thursday 7/2 at 2 PM
+## Assignment 5 (API)
+- Assigned Tues 6/23, due Tues 7/7 at 2 PM
+
+## Assignment 6 (EXTRA CREDIT)
+- Giphy search
 
 ## Class 10
 - Redux
@@ -141,6 +148,9 @@ csci39547.slack.com
 
 ## Class 11
 - Intro to NodeJS
+
+## Assignment 7 (Bank of React)
+- Assigned Thursday 6/25, due Tuesday 7/7 at 2 PM
 
 ## Class 12
 - Intro to ExpressJS/RESTful APIs
