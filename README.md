@@ -102,7 +102,7 @@ csci39547.slack.com
 - [Forms/events demo](https://github.com/mtlynch3/react-exercises/tree/master/forms-events/src)
 
 ## Assignment 4 (REACT)
-- Assigned Thursday 6/11, due Thursday 6/18 at 2PM
+- Assigned Thursday 6/11, due Tuesday 6/23 at 2PM
 - [Assignment 4](https://docs.google.com/document/d/1XCeysbpalCy-uIEKkANtwTsJuh1_pWp9GkqQ02c2FeU/edit?usp=sharing)
 
 # Week 4
