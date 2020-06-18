@@ -133,11 +133,11 @@ csci39547.slack.com
 
 # Week 5
 ## Class 9
-- React Router
 - Assignment 5 demo
+- React Router
 
 ## Assignment 5 (API)
-- Assigned Tues 6/23, due Tues 7/7 at 2 PM
+- Assigned Tuesday 6/23, due Tuesday 7/7 at 2 PM
 
 ## Assignment 6 (EXTRA CREDIT)
 - Giphy search
@@ -145,16 +145,16 @@ csci39547.slack.com
 ## Class 10
 - Redux
 
-# Week 6
-
-## Class 11
-- Intro to NodeJS
-
 ## Assignment 7 (Bank of React)
 - Assigned Thursday 6/25, due Tuesday 7/7 at 2 PM
 
+# Week 6
+
+## Class 11
+-  NodeJS
+
 ## Class 12
-- Intro to ExpressJS/RESTful APIs
+- ExpressJS/RESTful APIs
 
 # Week 7
 ## Class 13
