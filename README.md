@@ -124,6 +124,7 @@ csci39547.slack.com
 - [Promises slides](https://drive.google.com/file/d/1xVo6kagZiOvdXexzT7ujiIXZTFC2ov0F/view)
 - [AJAX, fetch, axios](https://drive.google.com/file/d/1xMVz85U_cwgEqjynGaEMfwT_JNYbI1E6/view)
 - [Async/await video](https://www.youtube.com/watch?v=vn3tm0quoqE&t=170s)
+- [Axios tutorial](http://zetcode.com/javascript/axios/)
 
 *Supplemental Material*
 - [In-depth article on async/await](https://blog.bitsrc.io/understanding-javascript-async-and-await-with-examples-a010b03926ea)
