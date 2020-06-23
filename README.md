@@ -156,7 +156,7 @@ Projects in Computer Science - Summer 2020
 
 ## Assignment 7 (Bank of React)
 - Assigned Thursday 6/25, due Tuesday 7/7 at 2 PM
--[Bank of React](https://gist.github.com/mtlynch3/4c86b925d4493355a5f2f6c41d2a3aa6)
+- [Bank of React](https://gist.github.com/mtlynch3/4c86b925d4493355a5f2f6c41d2a3aa6)
 
 # Week 6
 
