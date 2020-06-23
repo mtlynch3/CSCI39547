@@ -173,6 +173,8 @@ Projects in Computer Science - Summer 2020
 # Week 6
 
 ## Class 11
+- starter code for CRUD app client
+- final presentation requirements / fullstack app demo
 -  NodeJS
 
 ## Class 12
@@ -181,6 +183,7 @@ Projects in Computer Science - Summer 2020
 # Week 7
 ## Class 13
 - PostgresQL/Sequelize
+- starter code for CRUD app server
 
 ## Class 14
 - Work on projects
