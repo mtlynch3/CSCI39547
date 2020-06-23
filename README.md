@@ -1,15 +1,16 @@
 # CSCI39547
 Projects in Computer Science - Summer 2020
 
-Instructor: Melissa Lynch
+**Instructor:**
+ Melissa Lynch
 
-Email: lynch.melissat@gmail.com
+**Email:**
+ lynch.melissat@gmail.com
 
 [Form for assignment submission](https://docs.google.com/spreadsheets/d/1yW1-2sjGvPGzy2Gxdhb8cyrEGeRdegMzfABKS6QVTlA/edit?usp=sharing)
 
 
 **Slack workspace:** 
-
  csci39547.slack.com
 
 **[Syllabus](https://github.com/mtlynch3/CSCI39547/blob/master/syllabus_395.pdf)**
