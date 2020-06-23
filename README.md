@@ -153,7 +153,18 @@ Projects in Computer Science - Summer 2020
 - [Giphy Search](https://gist.github.com/ajLapid718/dfc6f6c7377336d916686bb148c031c1)
 
 ## Class 10
-- Redux
+- Assignment 7 demo
+- [Redux slides](https://drive.google.com/file/d/1T4kvykmcM2MvKvnExjopJv2i4cOjZw1O/view)
+- [Redux Middleware slides](https://drive.google.com/file/d/13D5Wv4-evRB9FUgRlr9cH_vPE0oRgafi/view)
+- [Thunk Middleware slides](https://drive.google.com/file/d/1CWDPOigoVDwZDc4iLEpJMJ7MN42cT3qI/view)
+- [Redux slides 2](https://drive.google.com/file/d/1lg62vSdB3kS0PHBQJrzfNuCfgq7v7Ed6/view)
+
+**Required Materials**
+- [Redux tutorial 1](https://egghead.io/courses/getting-started-with-redux)
+- [Redux tutorial 2](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
+- [Thunks in Redux](https://medium.com/fullstack-academy/thunks-in-redux-the-basics-85e538a3fe60)
+- [Redux Thunk Readme](https://learn.co/lessons/redux-thunk-readme)
+- [Redux and React-Redux Overview](https://gist.github.com/ajLapid718/5597d565c3090955c22ae0e2b6a2ca84)
 
 ## Assignment 7 (Bank of React)
 - Assigned Thursday 6/25, due Tuesday 7/7 at 2 PM
