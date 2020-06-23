@@ -5,12 +5,11 @@ Instructor: Melissa Lynch
 
 Email: lynch.melissat@gmail.com
 
-**Form for assignment submission**
+**Form for assignment submission(https://docs.google.com/spreadsheets/d/1yW1-2sjGvPGzy2Gxdhb8cyrEGeRdegMzfABKS6QVTlA/edit?usp=sharing
+)**
 
-https://docs.google.com/spreadsheets/d/1yW1-2sjGvPGzy2Gxdhb8cyrEGeRdegMzfABKS6QVTlA/edit?usp=sharing
 
-**Slack workspace**
-
+**Slack workspace: **
 csci39547.slack.com
 
 **[Syllabus](https://github.com/mtlynch3/CSCI39547/blob/master/syllabus_395.pdf)**
@@ -136,19 +135,27 @@ csci39547.slack.com
 # Week 5
 ## Class 9
 - Assignment 5 demo
-- React Router
+- [React Router slides](https://drive.google.com/file/d/1X7DB3LbAPPPEklKE-359GVKKFFsDGOg3/view)
+- [Basic router tutorial](https://reacttraining.com/react-router/web/guides/quick-start)
 
-## Assignment 5 (API)
+*Supplemental Matierals*
+- [Chrome extension for JSON viewing](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=en-US)
+- [Dynamic routing](https://reacttraining.com/react-router/web/guides/philosophy)
+- [Article on React Router](https://codeburst.io/getting-started-with-react-router-5c978f70df91)
+
+## Assignment 5 (Zip/City API)
 - Assigned Tuesday 6/23, due Tuesday 7/7 at 2 PM
+- [Zip/City Search](https://gist.github.com/mtlynch3/a7cd018203558fc6018ca744468aa651)
 
 ## Assignment 6 (EXTRA CREDIT)
-- Giphy search
+- [Giphy Search](https://gist.github.com/ajLapid718/dfc6f6c7377336d916686bb148c031c1)
 
 ## Class 10
 - Redux
 
 ## Assignment 7 (Bank of React)
 - Assigned Thursday 6/25, due Tuesday 7/7 at 2 PM
+-[Bank of React](https://gist.github.com/mtlynch3/4c86b925d4493355a5f2f6c41d2a3aa6)
 
 # Week 6
 
