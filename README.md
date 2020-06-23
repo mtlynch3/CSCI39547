@@ -141,6 +141,7 @@ Projects in Computer Science - Summer 2020
 
 *Supplemental Matierals*
 - [Chrome extension for JSON viewing](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=en-US)
+- [JSON intro](https://www.w3schools.com/js/js_json_intro.asp)
 - [Dynamic routing](https://reacttraining.com/react-router/web/guides/philosophy)
 - [Article on React Router](https://codeburst.io/getting-started-with-react-router-5c978f70df91)
 
