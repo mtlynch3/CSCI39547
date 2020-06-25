@@ -160,6 +160,7 @@ Projects in Computer Science - Summer 2020
 - [Redux slides 2](https://drive.google.com/file/d/1lg62vSdB3kS0PHBQJrzfNuCfgq7v7Ed6/view)
 
 **Required Materials**
+- [Redux DevTools Extension](http://extension.remotedev.io/)
 - [Redux tutorial 1](https://egghead.io/courses/getting-started-with-redux)
 - [Redux tutorial 2](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 - [Thunks in Redux](https://medium.com/fullstack-academy/thunks-in-redux-the-basics-85e538a3fe60)
