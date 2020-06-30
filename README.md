@@ -174,17 +174,20 @@ Projects in Computer Science - Summer 2020
 # Week 6
 
 ## Class 11
-- starter code for CRUD app client
-- final presentation requirements / fullstack app demo
--  NodeJS
+- Starter code for CRUD app client
+- [Small redux example](https://github.com/ajLapid718/redux-it-counter)
+- [Node Modules slides](https://drive.google.com/file/d/1HBf6oLbu5VIBfFM2P-a2A2FYmFaN_4W4/view)
 
 ## Class 12
 - ExpressJS/RESTful APIs
+- Starter code for CRUD app server
+- Guest speaker 5-530
+
 
 # Week 7
 ## Class 13
 - PostgresQL/Sequelize
-- starter code for CRUD app server
+- Expectations for final presentations
 
 ## Class 14
 - Work on projects
