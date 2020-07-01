@@ -174,13 +174,14 @@ Projects in Computer Science - Summer 2020
 # Week 6
 
 ## Class 11
-- Starter code for CRUD app client
+- [Starter code for CRUD app client](https://github.com/mtlynch3/ttp-crud-client)
 - [Small redux example](https://github.com/ajLapid718/redux-it-counter)
 - [Node Modules slides](https://drive.google.com/file/d/1HBf6oLbu5VIBfFM2P-a2A2FYmFaN_4W4/view)
 
 ## Class 12
-- ExpressJS/RESTful APIs
-- Starter code for CRUD app server
+- [ExpressJS slides](https://drive.google.com/file/d/16awMgO3cPkabEpa08NZCaOjFH7J9E1Yg/view)
+- [RESTful APIs slides](https://drive.google.com/file/d/1ijx6JmRUiiDI9AlPyZewh18GPgim4GJ1/view)
+- [Starter code for CRUD app server](https://github.com/mtlynch3/ttp-crud-server)
 - Guest speaker 5-530
 
 
