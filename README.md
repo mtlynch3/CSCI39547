@@ -184,6 +184,9 @@ Projects in Computer Science - Summer 2020
 - [Starter code for CRUD app server](https://github.com/mtlynch3/ttp-crud-server)
 - Guest speaker 5-530
 
+*Supplemental Materials*
+- [Video tutorial on Express/Sequelize](https://www.youtube.com/watch?v=bOHysWYMZM0)
+
 
 # Week 7
 ## Class 13
