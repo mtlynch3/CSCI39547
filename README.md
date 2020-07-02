@@ -197,7 +197,7 @@ Projects in Computer Science - Summer 2020
 # Project: FINAL PRESENTATION (20 pts)
 - Video presentation due Thursday, July 16 at 11:59 PM.
 - Start with a brief report on your CRUD app, which group members worked on what/breakdown of work, what could have been improved/challenges that were faced. (5 mins)
-- Then present a prototype of a NEW CRUD app your group would like to continue to work on after the class is over. This should be a fully fleshed out idea with wireframes, but implementation is not required. Talk about ways you can reuse code from the student manager app to make this new prototype. If you did some implementation, even if it’s very basic, please demo it in the video! (7-10 mins)
+- Then present a prototype of a NEW CRUD app your group would like to continue to work on after the class is over. This should be a fully fleshed out idea with wireframes for your UI and your database, but implementation is not required. Talk about ways you can reuse code from the student manager app to make this new prototype. If you did some implementation, even if it’s very basic, please demo it in the video! (7-10 mins)
 
 ## Class 14
 - Work on projects
