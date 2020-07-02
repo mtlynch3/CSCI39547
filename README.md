@@ -190,7 +190,7 @@ Projects in Computer Science - Summer 2020
 -[SQL to Sequelize translations](https://gist.github.com/ajLapid718/e88e9bf05eb6bc851c219fd486c2bc1c)
 - Expectations for final presentations
 
-# Project: FULLSTACK APP (60 pts)
+# Project: CRUD APP (60 pts)
 - [CRUD app: student/campus manager](https://docs.google.com/document/d/1ioCrS7uzKSkH8d-L04xMeHsq5GbkiAfwPNyLUoqrb04/edit?usp=sharing)
 - Due Thursday, July 16 at 11:59 PM.
 
