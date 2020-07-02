@@ -187,7 +187,9 @@ Projects in Computer Science - Summer 2020
 # Week 7
 ## Class 13
 - PostgreSQL/Sequelize
--[SQL to Sequelize translations](https://gist.github.com/ajLapid718/e88e9bf05eb6bc851c219fd486c2bc1c)
+- [Sequelize Overview Part 1](https://gist.github.com/ajLapid718/dfb48815a7472e9f6df09131bd0a7d49)
+- [Sequelize Overview Part 2](https://gist.github.com/ajLapid718/dfb48815a7472e9f6df09131bd0a7d49)
+- [SQL to Sequelize translations](https://gist.github.com/ajLapid718/e88e9bf05eb6bc851c219fd486c2bc1c)
 - Expectations for final presentations
 
 # Project: CRUD APP (60 pts)
