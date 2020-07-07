@@ -192,6 +192,14 @@ Projects in Computer Science - Summer 2020
 - [SQL to Sequelize translations](https://gist.github.com/ajLapid718/e88e9bf05eb6bc851c219fd486c2bc1c)
 - Expectations for final presentations
 
+**Required Materials**
+- [Relational database concepts](https://www.youtube.com/watch?v=NvrpuBAMddw)
+- [Intro to Object-Relational Mapping](https://www.youtube.com/watch?v=dHQ-I7kr_SY)
+
+**More CRUD app resources**
+- [Frontend](https://github.com/ajLapid718/student-manager-slice-frontend)
+- [Backend](https://github.com/ajLapid718/student-manager-slice-backend)
+
 # Project: CRUD APP (60 pts)
 - [CRUD app: student/campus manager](https://docs.google.com/document/d/1ioCrS7uzKSkH8d-L04xMeHsq5GbkiAfwPNyLUoqrb04/edit?usp=sharing)
 - Due Thursday, July 16 at 11:59 PM.
@@ -199,7 +207,7 @@ Projects in Computer Science - Summer 2020
 # Project: FINAL PRESENTATION (20 pts)
 - Video presentation due Thursday, July 16 at 11:59 PM.
 - Start with a brief report on your CRUD app, which group members worked on what/breakdown of work, what could have been improved/challenges that were faced. (5 mins)
-- Then present a prototype of a NEW CRUD app your group would like to continue to work on after the class is over. This should be a fully fleshed out idea with wireframes for your UI and your database, but implementation is not required. Talk about ways you can reuse code from the student manager app to make this new prototype. If you did some implementation, even if it’s very basic, please demo it in the video! (7-10 mins)
+- Then present a prototype of a NEW CRUD app your group would like to continue to work on after the class is over. This should be a fully fleshed out idea with wireframes for your UI and ORM diagrams for your database, but implementation is not required. Talk about ways you can reuse code from the student manager app to make this new prototype. If you did some implementation, even if it’s very basic, please demo it in the video! (7-10 mins)
 
 ## Class 14
 - Work on projects
