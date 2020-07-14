@@ -219,4 +219,6 @@ Projects in Computer Science - Summer 2020
 
 ## Class 16
 - Final presentations and CRUD app due
-- Take exit assessment 
+
+**Exit Assessment**
+- You will be taking your exit assessment via Blackboard on Thursday, July 16. It will be accessible under Course Materials. The test will be available from 3:20 to 4:20 pm. It will be 20 multiple choice questions. The questions will be very easy; as long as you have been keeping up with the assignments you will be able to answer them all correctly. You must pass the exit assessment (get at least 10 questions right) in order to pass the class. I don’t think this will be an issue for anyone. You can use any online resources to help answer the questions, but you should be working INDEPENDENTLY on this assessment. 
